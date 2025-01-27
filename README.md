@@ -15,7 +15,7 @@ dbt_test: Valida os dados transformados executando os testes configurados no dbt
 Para utilizar este projeto, você precisará:
 
 1. **Apache Airflow**
-   Instale a versão standalone do Apache Airflow seguindo as [instruções oficiais](https://airflow.apache.org/docs/apache-airflow/stable/standalone.html).
+   Instale a versão standalone do Apache Airflow seguindo as [instruções oficiais](https://airflow.apache.org/docs/apache-airflow/stable/start.html).
 
 2. **dbt**
    Certifique-se de que o dbt está instalado e configurado no ambiente virtual utilizado. Para mais informações, consulte a [documentação oficial do dbt](https://docs.getdbt.com/).
